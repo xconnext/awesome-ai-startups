@@ -943,6 +943,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PixVerse R2](https://world.pixverse.video/home/) - PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips.
 - [MiniMax H3](https://minimaxh3.art) - Powered by the Hailuo 3.0 model, MiniMax H3 functions as a streamlined video studio for modern creators. It delivers native 2K resolution video paired with synchronized audio, ensuring high visual….
 - [FlashVSR](https://flashvsr.com) - FlashVSR is an online AI video super-resolution tool.
+- [makeaicreator](https://makeaicreator.com) - Design a consistent virtual influencer and generate photos, videos, and voiceovers starring that character.
 
 ## 🎨 Image, Design & 3D
 
